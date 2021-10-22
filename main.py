@@ -1,7 +1,7 @@
 # Script gives possibility to get real time exchange rates
 # Made by Szymon Kasprzycki
 # Educational project, not to use
-
+# v1.0.0
 
 import requests
 from bs4 import BeautifulSoup
